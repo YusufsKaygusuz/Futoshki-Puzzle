@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\Futushki-Game\bin\Debug\Futushki-Game.exe.config
+C:\Users\yusuf\source\repos\Futushki-Game\bin\Debug\Futushki-Game.exe
+C:\Users\yusuf\source\repos\Futushki-Game\bin\Debug\Futushki-Game.pdb
+C:\Users\yusuf\source\repos\Futushki-Game\obj\Debug\Futushki-Game.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Futushki-Game\obj\Debug\Futushki_Game.Form1.resources
+C:\Users\yusuf\source\repos\Futushki-Game\obj\Debug\Futushki_Game.Properties.Resources.resources
+C:\Users\yusuf\source\repos\Futushki-Game\obj\Debug\Futushki-Game.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Futushki-Game\obj\Debug\Futushki-Game.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Futushki-Game\obj\Debug\Futushki-Game.exe
+C:\Users\yusuf\source\repos\Futushki-Game\obj\Debug\Futushki-Game.pdb
